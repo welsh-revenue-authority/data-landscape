@@ -1,4 +1,4 @@
-# Data landscape
+# Welsh land and property data catalogue
 
 This repository contains a list of the data sets about land a property that the spine might need to take account of where possible it includes sample data (where such data is available in the open).
 
@@ -78,10 +78,19 @@ Price Paid Data tracks property sales in England and Wales submitted to HM Land 
 
 ## Transaction identifiers
 
-Custodian: Land Registry
-
 ### Transaction unique identifier
 
+Custodian: Land Registry
+
+## Other
+
+### Cadw Listed Buildings
+* Custodian: [Cadw](https://cadw.gov.wales)
+* Unique identifier: Record Number
+* Example ID: 1
+* Projection system: [EPSG:27700](https://epsg.io/27700) (OSGB 36)
+
+https://datamap.gov.wales/layers/inspire-wg:Cadw_ListedBuildings
 
 ## Sources and links
 
@@ -89,3 +98,5 @@ https://www.owenboswarva.com/blog/post-addr2.htm
 https://www.owenboswarva.com/blog/post-addr1.htm
 https://www.geoplace.co.uk/blog/2018/persistent-and-well-behaved-identifiers
 https://www.geoplace.co.uk/addresses-streets/data-in-use/glossary
+https://cadw.gov.wales/advice-support/cof-cymru/downloads
+https://anna.ps/blog/how-to-use-land-registry-data-to-explore-land-ownership-near-you
