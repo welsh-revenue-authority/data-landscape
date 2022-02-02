@@ -94,9 +94,9 @@ https://datamap.gov.wales/layers/inspire-wg:Cadw_ListedBuildings
 
 ## Sources and links
 
-https://www.owenboswarva.com/blog/post-addr2.htm
-https://www.owenboswarva.com/blog/post-addr1.htm
-https://www.geoplace.co.uk/blog/2018/persistent-and-well-behaved-identifiers
-https://www.geoplace.co.uk/addresses-streets/data-in-use/glossary
-https://cadw.gov.wales/advice-support/cof-cymru/downloads
-https://anna.ps/blog/how-to-use-land-registry-data-to-explore-land-ownership-near-you
+* https://www.owenboswarva.com/blog/post-addr2.htm
+* https://www.owenboswarva.com/blog/post-addr1.htm
+* https://www.geoplace.co.uk/blog/2018/persistent-and-well-behaved-identifiers
+* https://www.geoplace.co.uk/addresses-streets/data-in-use/glossary
+* https://cadw.gov.wales/advice-support/cof-cymru/downloads
+* https://anna.ps/blog/how-to-use-land-registry-data-to-explore-land-ownership-near-you
