@@ -2,11 +2,23 @@
 
 This repository contains a list of the datasets about land a property that the spine might need to take account of where possible it includes sample data (where such data is available in the open).
 
-## Land and property identifiers
+## Identifiers
 
 ### Land Registry Title Number
 
-The unique identifier for each property on the property register.
+The unique identifier for each property on the property register. Used to index the ```Title``` and ```Title Plan``` documents for land registered in England and Wales. [13% of land in England and Wales in unregistered](https://www.gov.uk/government/organisations/land-registry/about) and so will not have a ```Title Number```.
+
+* Licensing: Copyright HM Land Registry
+* Custodian: [HM Land Registry](https://www.gov.uk/government/organisations/land-registry)
+* Example: ```CYM23456```
+
+### INSPIRE ID
+
+Unique identifiers for the INSPIRE Index Polygons that define the approximate geographical extent of land registered in England and Wales. There is a licensable dataset/service to lookup the ```Title Numbers``` for each ```INSPIRE ID```.
+
+* Custodian: [HM Land Registry](https://www.gov.uk/government/organisations/land-registry)
+* Licence: [Open Government Licence](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
+* Example: ```15530929```
 
 ### UPRNs
 
@@ -14,9 +26,54 @@ UPRNs are the unique identifiers for every addressable location in Great Britain
 
 * Custodian: GeoPlace (a public sector limited liability partnership between the Local Government Association and Ordnance Survey)
 * [Documentaiton](https://www.geoplace.co.uk/addresses-streets/location-data/the-uprn)
-* Example:
+* Example: ```[10094099741](https://uprn.uk/10094099741#.Yfp2Yy-l2Cc)```
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Unique_Property_Reference_Number)
 * Licence: [Open Government Licence](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
+
+### Postcodes
+
+A postcode designates an area with several addresses or a single major delivery point (sometimes non-geographic).
+
+* Custodian: Royal Mail/Ordnance Survey/Ofcom
+* Licence for postcode (+ XY coordinates) in Great Britain: [Open Government Licence](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
+* [Documentaiton](https://www.ordnancesurvey.co.uk/business-government/products/code-point-open)
+* Example: CF37 5YR
+
+## Geographies
+
+### INSPIRE Index Polygons
+
+INSPIRE Index Polygons is an open source dataset, developed to comply with the EU INSPIRE Directive (that was [maintained after EU exit](https://www.gov.uk/eu-withdrawal-act-2018-statutory-instruments/the-inspire-amendment-eu-exit-regulations-2018)). It contains the locations of freehold registered property in England and Wales. It is a sub-set of the Land Registry's Index Polygons database for all freehold land and property.
+
+* Custodian: HM Land Registry
+* Licence: [Open Government Licence](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
+* [Documentation](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
+* [Example polygon (GeoJSON converted from GML)](examples/inspire-example.geojson)
+* Unique identifier: INSPIRE ID
+* [Wikidata](https://www.wikidata.org/wiki/Wikidata:Property_proposal/INSPIRE_ID)
+
+
+### Postcode polygons
+
+### Postcode points (x/y)
+
+The centroid of the postcode polygon
+
+## Documents
+
+### Land Registry Title
+
+A description of the registered title. Some of the information contained is available as a [dataset extracted from the title](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/3).
+
+* Licensing: Copyright HM Land Registry
+* Custodian: HM Land Registry
+* [Example](examples/illustrative-title-register.png)
+* [Documentation](https://www.gov.uk/government/publications/how-to-read-a-title-register-and-title-plan/how-to-read-a-title-register)
+
+### Land Registry Title Plan
+
+* [Example](examples/example_title_plan.pdf) ([source](https://eservices.landregistry.gov.uk/eservices/FindAProperty/view/resources/example_title_plan.pdf)
+* [Documentation](https://www.gov.uk/government/publications/how-to-read-a-title-register-and-title-plan/how-to-read-a-title-plan)
 
 ### Unique Address Reference Number (UARN)
 
@@ -33,30 +90,6 @@ Defined in [BS7666:2006](https://static.geoplace.co.uk/downloads/british-standar
 ### Secondary Addressable Object Name (SAON)
 
 Defined in [BS7666:2006](https://static.geoplace.co.uk/downloads/british-standard-7776.pdf)
-
-### INSPIRE Index Polygons
-
-INSPIRE Index Polygons is an open source dataset, developed to comply with the EU INSPIRE Directive (that was [maintained after EU exit](https://www.gov.uk/eu-withdrawal-act-2018-statutory-instruments/the-inspire-amendment-eu-exit-regulations-2018)). It contains the locations of freehold registered property in England and Wales. It is a sub-set of the Land Registry's Index Polygons database for all freehold land and property.
-
-* Custodian: HM Land Registry
-* Licence: [Open Government Licence](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
-* [Documentation](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
-* [Example polygon (GeoJSON converted from GML)](examples/inspire-example.geojson)
-* Unique identifier: INSPIRE ID
-* Example ID: 15530929
-* [Wikidata](https://www.wikidata.org/wiki/Wikidata:Property_proposal/INSPIRE_ID)
-
-## Addresses and Postcodes
-
-### Postcodes
-
-A postcode designates an area with several addresses or a single major delivery point (sometimes non-geographic).
-
-* Custodian: Royal Mail/Ordnance Survey/Ofcom
-* Licence for postcode + XY coordinates in Great Britain: [Open Government Licence](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
-* [Documentaiton](https://www.ordnancesurvey.co.uk/business-government/products/code-point-open)
-* Licence for postcode + polygon in UK:
-* Example: CF99 1NA
 
 ### USRN (Unique Street Reference Number)
 
@@ -100,3 +133,4 @@ https://datamap.gov.wales/layers/inspire-wg:Cadw_ListedBuildings
 * https://www.geoplace.co.uk/addresses-streets/data-in-use/glossary
 * https://cadw.gov.wales/advice-support/cof-cymru/downloads
 * https://anna.ps/blog/how-to-use-land-registry-data-to-explore-land-ownership-near-you
+* https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923483/geospatial-data-catalogue-hm-land-registry.csv/preview
