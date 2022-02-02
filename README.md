@@ -1,6 +1,6 @@
 # Welsh land and property data catalogue
 
-This repository contains a list of the data sets about land a property that the spine might need to take account of where possible it includes sample data (where such data is available in the open).
+This repository contains a list of the datasets about land a property that the spine might need to take account of where possible it includes sample data (where such data is available in the open).
 
 ## Land and property identifiers
 
