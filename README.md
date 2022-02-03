@@ -8,7 +8,7 @@ This repository contains lists of identifiers, documents and datasets about land
 * [Property and land usage data](usage.md)
 * [Valuations, rates, transactions and other datasets](temporal.md)
 
-## Further reading
+## Background reading
 
 * [UK address data: a primer and bibliography (updated) - Owen Boswarva](https://www.owenboswarva.com/blog/post-addr3.htm)
 * [The 'golden thread' – why do we have so many property identifiers? - Owen Boswarva](https://www.owenboswarva.com/blog/post-addr2.htm)
@@ -24,3 +24,4 @@ This repository contains lists of identifiers, documents and datasets about land
 * [food hygiene ratings data](http://ratings.food.gov.uk/open-data/ "food hygiene ratings data")
 * [Price Paid Data](https://www.gov.uk/government/collections/price-paid-data "Price Paid Data")
 * [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/923483/geospatial-data-catalogue-hm-land-registry.csv/preview](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923483/geospatial-data-catalogue-hm-land-registry.csv/preview)
+* [https://www.ordnancesurvey.co.uk/business-government/products/open-linked-identifiers](https://www.ordnancesurvey.co.uk/business-government/products/open-linked-identifiers)
