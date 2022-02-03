@@ -33,7 +33,7 @@ The dataset was made available under the Open Government licence in July 2020. [
 * [Documentation](https://www.geoplace.co.uk/addresses-streets/location-data/the-uprn)
 * Example: [`10094099741`](https://uprn.uk/10094099741#.Yfp2Yy-l2Cc)
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Unique_Property_Reference_Number)
-* Licence: [Open Government Licence](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
+* Licence: [Open Government Licence](https://www.ordnancesurvey.co.uk/business-government/tools-support/open-mastermap-programme/open-id-policy)
 
 ## Unique Address Reference Number (UARN)
 
@@ -53,7 +53,7 @@ The Unique Street Reference Number (USRN) is an eight-digit unique identifier (a
 
 * Custodian: [GeoPlace](https://www.geoplace.co.uk)
 * Example: [`46406746`]()
-* Licence: [Open Government Licence](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
+* Licence: [Open Government Licence](https://www.ordnancesurvey.co.uk/business-government/tools-support/open-mastermap-programme/open-id-policy)
 * [Wikidata](https://www.wikidata.org/wiki/Property:P8447)
 
 ## Postcode
@@ -89,29 +89,52 @@ The UDPRN is a unique identifier for addresses with shared delivery points (e.g.
 [^22]
 
 ## Meter Point Administration Number (MPAN)
-[^23] [^24]
+
+A Meter Point Administration Number, also known as MPAN, Supply Number or S-Number, is a 21-digit reference used in Great Britain to uniquely identify electricity supply points such as individual domestic residences. [^23] [^24]
+
+* Custodian:
+* Licence:
+* Documentation:
+* Example:
+
 
 ## Meter Point Reference Number (MPRN)
-[^25]
+
+A Meter Point Reference Number (MPRN) is a unique number assigned to every single gas supply point in the UK and is used to identify individual gas supply points. They are made up of numbers only and don’t contain any letters. The format of an MPRN is quite standard and consists of between 6 and 11 digits. [^25][^26]
+
+* Custodian:
+* Licence:
+* Documentation:
+* Example:
 
 ## Local Authority Business ID (Local Authorities / Food Standards Agency)
-[^26]
+Local authorities maintain their own business premeses IDs. The Food Standards Agency uses these food hygene rating data includes references. [^27]
+
+* Custodian:
+* Licence:
+* Documentation:
+* Example:
 
 ## Cadw Listed Buildings Record Number
+Listed buildings in Wales are assigned a `Record Number` by Cadw.
 * Custodian: [Cadw](https://cadw.gov.wales)
 * Unique identifier: Record Number
 * Example ID: 1
 
-## The TOpographic IDentifier or TOID
-[^27][^28]
+## The Topographic Identifier  (TOID)
+A TOID (Topographic Identifier) is a unique and persistent identifier for each and every feature found in OS MasterMap products. [^28]
 
-## Primary Addressable Object Name (PAON)
+* Licence: [Open Government Licence](https://www.ordnancesurvey.co.uk/business-government/tools-support/open-mastermap-programme/open-id-policy)
+* [Wikidata](https://www.wikidata.org/wiki/Property:P3120)
+* [ OS Open TOID  on data.gov.uk](https://data.gov.uk/dataset/7f8b7752-a49f-464e-84ae-b2551f62b926/os-open-toid)
 
-Defined in [BS7666:2006](https://static.geoplace.co.uk/downloads/british-standard-7776.pdf)
+## Address (BS7666:2006)
 
-## Secondary Addressable Object Name (SAON)
+Local authorities maintain Local Land & Property Gazetteers to a standard format. Geoplace collect these together as the National Land & Property Gazetteer for England and Wales.
 
-Defined in [BS7666:2006](https://static.geoplace.co.uk/downloads/british-standard-7776.pdf)
+* Custodian: Local authorities / Geoplace
+* Unique identifier: Address
+* Example ID:
 
 [^1]:	https://www.gov.uk/government/organisations/land-registry/about
 
@@ -163,8 +186,8 @@ Defined in [BS7666:2006](https://static.geoplace.co.uk/downloads/british-standar
 
 [^25]:	[https://www.owenboswarva.com/blog/post-addr2.htm](https://www.owenboswarva.com/blog/post-addr2.htm)
 
-[^26]:	[https://data.gov.uk/dataset/bee79b5d-0bc4-430f-88ed-cedd3c0aac7e/uk-food-hygiene-rating-data-wales-welsh-language-food-standards-agency](https://data.gov.uk/dataset/bee79b5d-0bc4-430f-88ed-cedd3c0aac7e/uk-food-hygiene-rating-data-wales-welsh-language-food-standards-agency)
+[^26]:	[https://www.gasconnections.co.uk/meter-point-reference-number/](https://www.gasconnections.co.uk/meter-point-reference-number/)
 
-[^27]:	A TOID (Topographic Identifier) is a unique and persistent identifier for each and every feature found in OS MasterMap products.
+[^27]:	[https://data.gov.uk/dataset/bee79b5d-0bc4-430f-88ed-cedd3c0aac7e/uk-food-hygiene-rating-data-wales-welsh-language-food-standards-agency](https://data.gov.uk/dataset/bee79b5d-0bc4-430f-88ed-cedd3c0aac7e/uk-food-hygiene-rating-data-wales-welsh-language-food-standards-agency)
 
 [^28]:	[https://www.owenboswarva.com/blog/post-addr2.htm][43]
