@@ -82,6 +82,17 @@ A postcode designates an area with several addresses or a single major delivery 
 * Unique identifier: Record Number
 * Example ID: 1
 
+## The TOpographic IDentifier or TOID
+[^21][^22]
+
+## Primary Addressable Object Name (PAON)
+
+Defined in [BS7666:2006](https://static.geoplace.co.uk/downloads/british-standard-7776.pdf)
+
+## Secondary Addressable Object Name (SAON)
+
+Defined in [BS7666:2006](https://static.geoplace.co.uk/downloads/british-standard-7776.pdf)
+
 [^1]:	https://www.gov.uk/government/organisations/land-registry/about
 
 [^2]:	[https://anna.ps/blog/how-to-use-land-registry-data-to-explore-land-ownership-near-you](https://anna.ps/blog/how-to-use-land-registry-data-to-explore-land-ownership-near-you)
@@ -121,3 +132,7 @@ A postcode designates an area with several addresses or a single major delivery 
 [^19]:	[https://www.owenboswarva.com/blog/post-addr2.htm](https://www.owenboswarva.com/blog/post-addr2.htm)
 
 [^20]:	[https://data.gov.uk/dataset/bee79b5d-0bc4-430f-88ed-cedd3c0aac7e/uk-food-hygiene-rating-data-wales-welsh-language-food-standards-agency](https://data.gov.uk/dataset/bee79b5d-0bc4-430f-88ed-cedd3c0aac7e/uk-food-hygiene-rating-data-wales-welsh-language-food-standards-agency)
+
+[^21]:	A TOID (Topographic Identifier) is a unique and persistent identifier for each and every feature found in OS MasterMap products.
+
+[^22]:	[https://www.owenboswarva.com/blog/post-addr2.htm][43]
