@@ -36,7 +36,9 @@ A Unique Address Reference Number (UARN) is a unique identifier assigned to each
 
 All UARNs are mapped to UPRNs. For a minority of records, GeoPlace are unable to uniquely map UARNs to the lowest level (child) UPRN. In that case a group of UARNs are assigned to a higher level (parent) UPRN. VOA monitors which UPRNs are assigned to UARNs and there is an ongoing effort to reduce the number of UARNs that cannot be assigned to a child UPRN. ([source](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/methodologies/valuationofficeagencypropertyattributedataqualityassuranceofadministrativedatausedincensus2021#practice-area-1-operational-context-and-administrative-data-collection))
 
-> All dwellings from VOA data (UARNs) are mapped to UPRNs so that VOA references can be included in AddressBase products. For a minority of records, GeoPlace are unable to uniquely map UARNs to the lowest level (child) UPRN. In that case a group of UARNs are assigned to a higher level (parent) UPRN. VOA monitors which UPRNs are assigned to UARNs and there is an ongoing effort to reduce the number of UARNs that cannot be assigned to a child UPRN. ^[1]
+> All dwellings from VOA data (UARNs) are mapped to UPRNs so that VOA references can be included in AddressBase products. For a minority of records, GeoPlace are unable to uniquely map UARNs to the lowest level (child) UPRN. In that case a group of UARNs are assigned to a higher level (parent) UPRN. VOA monitors which UPRNs are assigned to UARNs and there is an ongoing effort to reduce the number of UARNs that cannot be assigned to a child UPRN. 
+ 
+^[1]
 
 * Custodian: [Valuation Office Agency](https://www.gov.uk/government/organisations/valuation-office-agency)
 * Example:
@@ -153,3 +155,5 @@ https://datamap.gov.wales/layers/inspire-wg:Cadw_ListedBuildings
 * https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923483/geospatial-data-catalogue-hm-land-registry.csv/preview
 * https://cy.ons.gov.uk/peoplepopulationandcommunity/housing/methodologies/valuationofficeagencypropertyattributedataqualityassuranceofadministrativedatausedincensus2021#practice-area-3-quality-assurance-principles-standards-and-checks-applied-to-data-supplies
 * https://www.gov.uk/guidance/council-tax-manual
+
+[^1]: ffdsfdsfds
