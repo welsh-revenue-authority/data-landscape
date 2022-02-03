@@ -14,7 +14,7 @@ A description of the registered title. Some of the information contained is avai
 * [Example](examples/example_title_plan.pdf) ([source](https://eservices.landregistry.gov.uk/eservices/FindAProperty/view/resources/example_title_plan.pdf)
 * [Documentation](https://www.gov.uk/government/publications/how-to-read-a-title-register-and-title-plan/how-to-read-a-title-plan)
 
-## Enerhgy Performance Certificate
+## Energy Performance Certificate
 
-https://en.wikipedia.org/wiki/Energy_Performance_Certificate_(United_Kingdom)
+https://en.wikipedia.org/wiki/Energy\_Performance\_Certificate\_(United\_Kingdom)
 
