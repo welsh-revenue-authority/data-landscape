@@ -2,7 +2,7 @@
 
 This repository contains a list of the datasets about land a property that the spine might need to take account of where possible it includes sample data (where such data is available in the open).
 
-## Identifiers
+## Unique identifiers
 
 ### Title Number
 
@@ -12,7 +12,7 @@ The unique identifier for each property on HM Land Registry’s property registe
 * Custodian: [HM Land Registry](https://www.gov.uk/government/organisations/land-registry)
 * Example: `CYM23456`
 
-###  Index Polygon ID 
+###  Index Polygon ID
 The unique identifier for each ‘indicative extent’ on HM Land Registry’s property register. ([https://www.owenboswarva.com/blog/post-addr2.htm](https://www.owenboswarva.com/blog/post-addr2.htm))
 
 ### INSPIRE ID
@@ -42,12 +42,12 @@ A Unique Address Reference Number (UARN) is a unique identifier assigned to each
 All UARNs are mapped to UPRNs. For a minority of records, GeoPlace are unable to uniquely map UARNs to the lowest level (child) UPRN. In that case a group of UARNs are assigned to a higher level (parent) UPRN. VOA monitors which UPRNs are assigned to UARNs and there is an ongoing effort to reduce the number of UARNs that cannot be assigned to a child UPRN.[^10]
 
 * Custodian: [Valuation Office Agency](https://www.gov.uk/government/organisations/valuation-office-agency)
-* Example: 
-* Licence: 
+* Example:
+* Licence:
 
 ### Unique Street Reference Number (USRN)
 
-The Unique Street Reference Number (USRN) is an 8 digit unique identifier for every street across Great Britain. 
+The Unique Street Reference Number (USRN) is an 8 digit unique identifier for every street across Great Britain.
 
 The Unique Street Reference Number (USRN) is an eight-digit unique identifier (a geocode) for every street across Great Britain.  The USRNs for England and Wales exists within the National Street Gazetteer (NSG), the authoritative source of information about streets in England and Wales and is a compilation of data from 173 highway authorities' Local Street Gazetteers. [^11] [^12]
 * Custodian: [GeoPlace](https://www.geoplace.co.uk)
@@ -225,4 +225,4 @@ https://datamap.gov.wales/layers/inspire-wg:Cadw\_ListedBuildings
 
 [^19]:	A TOID (Topographic Identifier) is a unique and persistent identifier for each and every feature found in OS MasterMap products.
 
-[^20]:	[https://www.owenboswarva.com/blog/post-addr2.htm](https://www.owenboswarva.com/blog/post-addr2.htm)
+[^20]:	[https://www.owenboswarva.com/blog/post-addr2.htm][43]
