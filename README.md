@@ -1,13 +1,13 @@
 # Welsh land and property data landscape
 
-This repository contains a list of the datasets about land a property that the spine might need to take account of where possible it includes sample data (where such data is available in the open).
+This repository contains lists of identifiers, documents and datasets about land a property in Wales. Where licensing allows, it includes sample data.
 
 * [Unique identifiers for property and land](identifiers.md)
-* [Documents](documents.md)
+* [Document types](documents.md)
 * [Geospatial data](geospatial.md)
-* [Usage data](temporal.md)
-* [Temporal data](temporal.md)
-* [Other data](other.md)
+* [Usage data](usage.md)
+* [Temporal data (e.g. valuations and rates)](temporal.md)
+* [Other](other.md)
 
 
 ## Sources and links
