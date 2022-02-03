@@ -26,7 +26,7 @@ UPRNs are the unique identifiers for every addressable location in Great Britain
 
 * Custodian: GeoPlace (a public sector limited liability partnership between the Local Government Association and Ordnance Survey)
 * [Documentaiton](https://www.geoplace.co.uk/addresses-streets/location-data/the-uprn)
-* Example: ```[10094099741](https://uprn.uk/10094099741#.Yfp2Yy-l2Cc)```
+* Example: [```10094099741```](https://uprn.uk/10094099741#.Yfp2Yy-l2Cc)
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Unique_Property_Reference_Number)
 * Licence: [Open Government Licence](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
 
