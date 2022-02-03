@@ -1,0 +1,9 @@
+To do
+
+https://www.gov.uk/guidance/council-tax-manual
+https://www.geoplace.co.uk/addresses-streets/data-in-use/glossary
+https://cadw.gov.wales/advice-support/cof-cymru/downloads
+food hygiene ratings data
+Price Paid Data
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923483/geospatial-data-catalogue-hm-land-registry.csv/preview
+https://www.ordnancesurvey.co.uk/business-government/products/open-linked-identifiers

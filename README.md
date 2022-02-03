@@ -14,7 +14,7 @@ This repository contains lists of identifiers, documents and datasets about land
 * [The 'golden thread' – why do we have so many property identifiers? - Owen Boswarva](https://www.owenboswarva.com/blog/post-addr2.htm)
 * [Persistent and well-behaved identifiers - Richard Duffield, Geoplace](https://www.geoplace.co.uk/blog/2018/persistent-and-well-behaved-identifiers)
 * [Valuation Office Agency property attribute data: quality assurance of administrative data used in Census 2021 - ONS](https://cy.ons.gov.uk/peoplepopulationandcommunity/housing/methodologies/valuationofficeagencypropertyattributedataqualityassuranceofadministrativedatausedincensus2021#practice-area-3-quality-assurance-principles-standards-and-checks-applied-to-data-supplies)
-* [How to use Land Registry data to explore land ownership near you](How%20to%20use%20Land%20Registry%20data%20to%20explore%20land%20ownership%20near%20you%20-%20Anna%20Powell-Smith)
+* [How to use Land Registry data to explore land ownership near you - Anna Powell Smith](How%20to%20use%20Land%20Registry%20data%20to%20explore%20land%20ownership%20near%20you%20-%20Anna%20Powell-Smith)
 * [ UPRN Uncovered – What you need to know about the newly released Property Identifiers  - Yusuf  Sohoye, Connected Places Catapult ](https://cp.catapult.org.uk/news/uprn-uncovered-what-you-need-to-know-about-the-newly-released-property-identifiers/)
 
 ## To review
