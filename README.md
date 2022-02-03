@@ -36,7 +36,7 @@ A Unique Address Reference Number (UARN) is a unique identifier assigned to each
 
 All UARNs are mapped to UPRNs. For a minority of records, GeoPlace are unable to uniquely map UARNs to the lowest level (child) UPRN. In that case a group of UARNs are assigned to a higher level (parent) UPRN. VOA monitors which UPRNs are assigned to UARNs and there is an ongoing effort to reduce the number of UARNs that cannot be assigned to a child UPRN. ([source](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/methodologies/valuationofficeagencypropertyattributedataqualityassuranceofadministrativedatausedincensus2021#practice-area-1-operational-context-and-administrative-data-collection))
 
-> All dwellings from VOA data (UARNs) are mapped to UPRNs so that VOA references can be included in AddressBase products. For a minority of records, GeoPlace are unable to uniquely map UARNs to the lowest level (child) UPRN. In that case a group of UARNs are assigned to a higher level (parent) UPRN. VOA monitors which UPRNs are assigned to UARNs and there is an ongoing effort to reduce the number of UARNs that cannot be assigned to a child UPRN.^[This footnote will appear at the bottom of the page.]
+> All dwellings from VOA data (UARNs) are mapped to UPRNs so that VOA references can be included in AddressBase products. For a minority of records, GeoPlace are unable to uniquely map UARNs to the lowest level (child) UPRN. In that case a group of UARNs are assigned to a higher level (parent) UPRN. VOA monitors which UPRNs are assigned to UARNs and there is an ongoing effort to reduce the number of UARNs that cannot be assigned to a child UPRN. ^[1]
 
 * Custodian: [Valuation Office Agency](https://www.gov.uk/government/organisations/valuation-office-agency)
 * Example:
