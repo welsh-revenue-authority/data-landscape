@@ -16,12 +16,3 @@ This repository contains lists of identifiers, documents and datasets about land
 * [Valuation Office Agency property attribute data: quality assurance of administrative data used in Census 2021 - ONS](https://cy.ons.gov.uk/peoplepopulationandcommunity/housing/methodologies/valuationofficeagencypropertyattributedataqualityassuranceofadministrativedatausedincensus2021#practice-area-3-quality-assurance-principles-standards-and-checks-applied-to-data-supplies)
 * [How to use Land Registry data to explore land ownership near you - Anna Powell Smith](How%20to%20use%20Land%20Registry%20data%20to%20explore%20land%20ownership%20near%20you%20-%20Anna%20Powell-Smith)
 * [ UPRN Uncovered – What you need to know about the newly released Property Identifiers  - Yusuf  Sohoye, Connected Places Catapult ](https://cp.catapult.org.uk/news/uprn-uncovered-what-you-need-to-know-about-the-newly-released-property-identifiers/)
-
-## To review
-* https://www.gov.uk/guidance/council-tax-manual
-* https://www.geoplace.co.uk/addresses-streets/data-in-use/glossary
-* https://cadw.gov.wales/advice-support/cof-cymru/downloads
-* [food hygiene ratings data](http://ratings.food.gov.uk/open-data/ "food hygiene ratings data")
-* [Price Paid Data](https://www.gov.uk/government/collections/price-paid-data "Price Paid Data")
-* [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/923483/geospatial-data-catalogue-hm-land-registry.csv/preview](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923483/geospatial-data-catalogue-hm-land-registry.csv/preview)
-* [https://www.ordnancesurvey.co.uk/business-government/products/open-linked-identifiers](https://www.ordnancesurvey.co.uk/business-government/products/open-linked-identifiers)
