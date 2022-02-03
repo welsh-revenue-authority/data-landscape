@@ -1,4 +1,4 @@
-# Welsh land and property data catalogue
+# Welsh land and property data landscape
 
 This repository contains a list of the datasets about land a property that the spine might need to take account of where possible it includes sample data (where such data is available in the open).
 
@@ -26,7 +26,7 @@ UPRNs are the unique identifiers for every addressable location in Great Britain
 
 * Custodian: GeoPlace (a public sector limited liability partnership between the Local Government Association and Ordnance Survey)
 * [Documentaiton](https://www.geoplace.co.uk/addresses-streets/location-data/the-uprn)
-* Example: ```[10094099741](https://uprn.uk/10094099741#.Yfp2Yy-l2Cc)```
+* Example: [```10094099741```](https://uprn.uk/10094099741#.Yfp2Yy-l2Cc)
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Unique_Property_Reference_Number)
 * Licence: [Open Government Licence](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
 
@@ -35,7 +35,7 @@ UPRNs are the unique identifiers for every addressable location in Great Britain
 A Unique Address Reference Number (UARN) is a unique identifier assigned to each Council Tax and Non Domestic Rate record from Valuation Office Agency.
 
 All UARNs are mapped to UPRNs. For a minority of records, GeoPlace are unable to uniquely map UARNs to the lowest level (child) UPRN. In that case a group of UARNs are assigned to a higher level (parent) UPRN. VOA monitors which UPRNs are assigned to UARNs and there is an ongoing effort to reduce the number of UARNs that cannot be assigned to a child UPRN. ([source](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/methodologies/valuationofficeagencypropertyattributedataqualityassuranceofadministrativedatausedincensus2021#practice-area-1-operational-context-and-administrative-data-collection))
-
+ 
 * Custodian: [Valuation Office Agency](https://www.gov.uk/government/organisations/valuation-office-agency)
 * Example:
 * Licence:
