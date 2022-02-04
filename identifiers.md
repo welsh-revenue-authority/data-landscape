@@ -1,4 +1,4 @@
-## Unique identifiers for property and land
+# Unique identifiers for property and land
 
 ## Title Number
 
@@ -10,6 +10,7 @@ The unique identifier for each property on HM Land Registry’s property registe
 
 ## Polygon ID
 The unique identifier for each ‘indicative extent’ on HM Land Registry’s property register. The relationship between the registered title and `Polygon ID` is managed through the title number. 
+
 * Licensing: Copyright HM Land Registry
 * Custodian: [HM Land Registry](https://www.gov.uk/government/organisations/land-registry)
 * Example: 
@@ -86,7 +87,11 @@ The `UDPRN` is a unique identifier for addresses with shared delivery points (e.
 * Example:
 
 ## Flood Re Unique Identifier (FRid)
-[^14]
+Flood Re is a joint initiative between UK Government and insurers. There is a Flood Re unique identifier (FRid) for all of the 30 million UK residential
+properties. It is represented by 32 lowercase hexadecimal digits, displayed
+in five groups separated by hyphens, in the form 8-4-4-4-12
+for a total of 36 characters (32 alphanumeric characters and
+four hyphens). [^14]
 
 ## Meter Point Administration Number (MPAN)
 
@@ -164,7 +169,7 @@ Local authorities maintain Local Land & Property Gazetteers to a standard format
 
 [^13]:	[https://www.poweredbypaf.com/wp-content/uploads/2017/07/Latest-Programmers\_guide\_Edition-7-Version-6.pdf](https://www.poweredbypaf.com/wp-content/uploads/2017/07/Latest-Programmers_guide_Edition-7-Version-6.pdf)
 
-[^14]:	[https://www.owenboswarva.com/blog/post-addr2.htm](https://www.owenboswarva.com/blog/post-addr2.htm)
+[^14]:	[https://www.floodre.co.uk/wp-content/uploads/Bordereaux-Completion-Guide-V4.0.pdf](https://www.floodre.co.uk/wp-content/uploads/Bordereaux-Completion-Guide-V4.0.pdf)
 
 [^15]:	[https://www.gasconnections.co.uk/meter-point-reference-number/](https://www.gasconnections.co.uk/meter-point-reference-number/)
 
