@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "codepoint_open_wgs84",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 819166, "Postcode": "LL402PG", "Positional_quality_indicator": 10, "Country_code": "W92000004", "NHS_regional_HA_code": null, "NHS_HA_code": "W11000023", "Admin_county_code": null, "Admin_district_code": "W06000002", "Admin_ward_code": "W05000106" }, "geometry": { "type": "Point", "coordinates": [ -3.845244301656477, 52.847227394306756 ] } }
+]
+}
