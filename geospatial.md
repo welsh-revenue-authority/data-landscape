@@ -17,7 +17,8 @@ INSPIRE Index Polygons is an open source dataset, developed to comply with the E
 
 * Unique identifier: Postcode
 * Licence: Copyright Ordinance Survey
-* [Documentation](https://www.ordnancesurvey.co.uk/business-government/products/code-point-polygons)c\* Examples:
+* [Documentation](https://www.ordnancesurvey.co.uk/business-government/products/code-point-polygons)
+* Examples:
 	* [GeoJSON converted from geopackage (OSGB 36)](examples/codepoint_polygon_osgb.geojson)
 	* [ GeoJSON converted from geopackage (WG684)](examples/codepoint_polygon_wgs84.geojson)
 * [Codepoint with polygons on data.gov.uk](https://data.gov.uk/dataset/4b627a86-a900-4ef4-8e11-ed765874ae1e/code-point-with-polygons)
