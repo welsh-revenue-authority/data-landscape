@@ -5,7 +5,7 @@ This repository contains lists of identifiers, documents and datasets about land
 * [Unique identifiers for property and land](identifiers.md)
 * [Property and land documents](documents.md)
 * [Geospatial datasets about property and land](geospatial.md)
-* [Property and land usage data](usage.md)
+* [Property and land usage data](use.md)
 * [Valuations, rates, transactions and other datasets](temporal.md)
 
 ## Background reading
