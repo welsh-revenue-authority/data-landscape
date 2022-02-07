@@ -22,7 +22,7 @@ Land Registry Title Plans show the the approximate boundary for a register title
 Energy performance certificates are a rating scheme to summarise the energy efficiency of residential and non-residential buildings. The building is given a rating between A (Very efficient) - G (Inefficient), the EPC also includes tips the most cost effective ways to improve a property’s energy rating.
 
 * Issuer: Accredited energy assessors
-* [Example](example_epc.pdf)
+* [Example EPC](examples/example_epc.pdf)
 
 
 
