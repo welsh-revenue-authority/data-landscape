@@ -6,6 +6,11 @@ relative_links:
   collections: false
   include:
     - index.md
+    - documents.md
+    - geospatial.md
+    - identifiers.md
+    - temporal.md
+    - use.md
     - examples/*.pdf
     - examples/*.geojson
   exclude:
