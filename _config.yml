@@ -11,6 +11,3 @@ relative_links:
     - use.md
     - examples/*.pdf
     - examples/*.geojson
-  exclude:
-    - README.md
-    - todo.txt
