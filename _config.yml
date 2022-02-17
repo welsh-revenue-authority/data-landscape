@@ -6,7 +6,8 @@ relative_links:
   collections: false
   include:
     - index.md
-    - *.md
+    - examples/*.pdf
+    - examples/*.geojson
   exclude:
     - README.md
     - todo.txt
