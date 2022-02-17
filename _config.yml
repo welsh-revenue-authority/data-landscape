@@ -1,0 +1,11 @@
+title: Welsh land and property data landscape
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+  include:
+    - *.md
+  exclude:
+    - README.md
+    - todo.txt
