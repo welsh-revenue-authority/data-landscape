@@ -1,5 +1,3 @@
-# Welsh land and property data landscape
-
 This repository contains lists of identifiers, documents and datasets about land a property in Wales. Where licensing allows, it includes sample data.
 
 * [Unique identifiers for property and land](identifiers.md)
