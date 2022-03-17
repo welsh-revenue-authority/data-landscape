@@ -3,9 +3,8 @@
 * National Energy Efficiency Dataset
 * Household income
 * Vulnerable households for energy
-* Welsh Housing Quality Standard collection
+* [Welsh Housing Quality Standard collection](https://gov.wales/welsh-housing-quality-standard-statistics)
 * RSL stock/condition data
 * Energy company usage
-* building passport data
-* RSW LL registration info
+* [Rent Smart Wales registration](https://www.rentsmart.gov.wales/en/landlord/landlord-registration/)
 * Welsh Water / Severn Trent consumption data
