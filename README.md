@@ -15,3 +15,8 @@ This repository contains lists of identifiers, documents and datasets about land
 * [How to use Land Registry data to explore land ownership near you - Anna Powell Smith](https://anna.ps/blog/how-to-use-land-registry-data-to-explore-land-ownership-near-you)
 * [UPRN Uncovered – What you need to know about the newly released Property Identifiers  - Yusuf  Sohoye, Connected Places Catapult ](https://cp.catapult.org.uk/news/uprn-uncovered-what-you-need-to-know-about-the-newly-released-property-identifiers/)
 * [Open data GB postcode unit boundries](https://longair.net/blog/2021/08/23/open-data-gb-postcode-unit-boundaries/)
+
+## Issues using the data
+
+* [Challenges adding data to DB](loading-challenges.md)
+* [Challenges using the data](problems-using-data.md)
